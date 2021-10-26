@@ -1,4 +1,4 @@
-##Todays Session takeaway
+## Todays Session takeaway
 
 1. Learnd about VCS
 2. Learned about DVCS
